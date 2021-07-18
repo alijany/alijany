@@ -11,7 +11,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AVS1508">
+  <a href="https://github.com/alijany">
     <img height="180em" 
          src="https://github-readme-stats-eight-theta.vercel.app/api?username=alijany&include_all_commits=true&count_private=true&title_color=367391"/>
     <img height="180em" 
