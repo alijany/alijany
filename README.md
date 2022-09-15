@@ -1,12 +1,10 @@
   
 ### Hi there 👋
 
-[![Visits Badge](https://badges.pufler.dev/visits/alijany/alijany?style=flat&color=FF5F5F&labelColor=367391)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/alijany?style=flat&color=FF5F5F&labelColor=367391)](https://badges.pufler.dev)
-[![Repos Badge](https://badges.pufler.dev/repos/alijany?style=flat&color=FF5F5F&labelColor=367391)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/alijany/alijany?style=flat&color=FF5F5F&labelColor=367391)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/yearly/alijany?style=flat&color=FF5F5F&labelColor=367391)](https://badges.pufler.dev)
-
+[![Visits Badge](https://badges.strrl.dev/visits/alijany/alijany)](https://badges.strrl.dev)
+[![Years Badge](https://badges.strrl.dev/years/alijany)](https://badges.strrl.dev)
+[![Public Repos Badge](https://badges.strrl.dev/repos/alijany)](https://badges.strrl.dev)
+[![Repo Updated Badge](https://badges.strrl.dev/updated/alijany/alijany)](https://badges.strrl.dev)
 
 ### GitHub Stats
 
