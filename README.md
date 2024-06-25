@@ -18,15 +18,6 @@
 </p>
 
 
-### I’m currently learning
-
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/nest js-367391?style=flat&logo=nestjs&logoColor=white" />
-  <img alt="Jest" src="https://img.shields.io/badge/jest-367391?style=flat&logo=jest&logoColor=white"/>
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-367391?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
-
-
 ### How to reach me 
 
 <a href="mailto:mh.alijany@gmil.com">
@@ -48,6 +39,9 @@
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-367391?style=flat&logo=mysql&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git-367391?style=flat&logo=git&logoColor=white"/>
+  <img alt="NestJS" src="https://img.shields.io/badge/nest js-367391?style=flat&logo=nestjs&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/jest-367391?style=flat&logo=jest&logoColor=white"/>
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-367391?style=flat&logo=tailwind-css&logoColor=white"/>
   <img alt="RxJS" src="https://img.shields.io/badge/rxjs-367391?style=flat&logo=reactivex&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/webpack-367391?style=flat&logo=webpack&logoColor=white" />
   <img alt="SASS" src="https://img.shields.io/badge/SASS-367391?style=flat&logo=SASS&logoColor=white"/>
